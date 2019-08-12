@@ -23,7 +23,7 @@ margin: 0;
   align-items: center;
   justify-content: space-between;
   height: 660px;
-  background-image: url("img/index_im01.png");
+  background-image: url("index_im01.png");
   background-position: 40% 70%;
   background-size: cover;
 }
@@ -188,7 +188,7 @@ margin: 0;
   text-align: right;
 }
 .intro-section__result{
-  background-image: url("img/index_bg06.jpg");
+  background-image: url("index_bg06.jpg");
   text-align: center;
 }
 .intro-section__rlimg{
