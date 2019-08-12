@@ -1,0 +1,290 @@
+body{
+  margin: 0 auto;
+}
+.page-header{
+  background-color: #00aeef;
+  padding: 20px 0;
+}
+p{
+margin: 0;
+}
+.inr{
+  width: 1100px;
+  margin:0 auto;
+}
+
+.content-inr{
+  width:950px;
+  margin: 0 auto;
+}
+
+.main-visual{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 660px;
+  background-image: url("img/index_im01.png");
+  background-position: 40% 70%;
+  background-size: cover;
+}
+.main-visual__contact{
+  float: right;
+  position:relative;
+  bottom: 300px;
+  position: relative;
+}
+.page-header__logo{
+  width: 200px;
+}
+
+.main-visual__inr{
+  width:340px;
+  margin: 0 auto;
+}
+.main-visual__man {
+  position: relative;
+  top: 300px;
+}
+
+.main-visual__contactform{
+  position: relative;
+  left:62px;
+  bottom: 17px;
+  width:371px;
+  height:450px;
+  background-color: white;
+}
+.main-visual__step1Logo{
+  padding: 5px 0;
+  line-height: 1;
+}
+.main-visual__selectRoom{
+  background-color: #eee;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 2px;
+}
+.main-visual__selectRoomLeft{
+  display: inline-block;
+  width: 50px;
+  text-align: center;
+  margin-left: 10px;
+
+}
+.main-visual__selectRoomLeft p{
+  font-size: 11px;
+}
+
+.main-visual__selectRoomCenter{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #bbb;
+  padding: 10px 7px;
+  background-color: white;
+  box-sizing: border-box;
+  width: 220px;
+  margin:5px 0;
+  border-radius: 3px;
+}
+.main-visual__selectRoomCenter p{
+  font-size: 13px;
+}
+.main-visual__pludwonMark{
+  width: 12px;
+}
+.main-visual__selectRoomRight{
+  margin-right: 10px;
+}
+.main-visual__selectAdress{
+  background-color: #eee;
+  border-radius: 2px;
+}
+.main-visual__btn{
+  background-color: #bbb;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 0;
+  margin: 5px 0;
+}
+.main-visual__btn img{
+  padding-right: 10px;
+}
+.main-visual__txt{
+  font-size: 12px;
+}
+.intro-section__content{
+  text-align: center;
+}
+.intro-section__content1{
+  padding:50px 0;
+  margin:10px 0;
+  background-color: #effaff
+}
+.intro-section__content1reason{
+  position:relative;
+  bottom: 77px;
+}
+.intro-section__content1imgcol{
+  display: flex;
+  justify-content: space-between;
+}
+.intro-section__content1colimg{
+  padding-top:60px;
+}
+.intro-section__content1col{
+  text-align: left;
+  padding-top: 15px;
+}
+
+.intro-section__content2-5inr{
+  padding:85px 0 77px;
+}
+.intro-section__content2imgcol{
+  display: flex;
+  justify-content: space-between;
+}
+
+.intro-section__content2col{
+  text-align: left;
+}
+.intro-section__content2col h3{
+  color: #00a0e9;
+  font-size: 24px;
+}
+.intro-section__content3{
+  background-color: #effaff
+}
+.intro-section__content3imgcol{
+  display: flex;
+  justify-content: space-between;
+}
+
+.intro-section__content3col{
+  text-align: left;
+}
+.intro-section__content3col h3{
+  color: #00a0e9;
+  font-size: 24px;
+}
+.intro-section__content4col{
+  text-align: left;
+}
+.intro-section__content4col h3{
+  color: #00a0e9;
+  font-size: 24px;
+}
+.intro-section__content5imgcol{
+  display: flex;
+  vertical-align: top;
+}
+.intro-section__content5col{
+  text-align: left;
+}
+.intro-section__content5img{
+  text-align: right;
+}
+.intro-section__result{
+  background-image: url("img/index_bg06.jpg");
+  text-align: center;
+}
+.intro-section__rlimg{
+  position: relative;
+  bottom: 40px;
+}
+.intro-section__rlinr{
+  width:960px;
+  height:350px;
+  background-color: white;
+  margin:0 auto;
+  position: relative;
+  bottom:57px;
+}
+.intro-section__contactForm{
+  padding: 10px 0px;
+  margin: 10px 20px;
+}
+.intro-section__step1Logo , .intro-section__step2Logo{
+  text-align: left;
+}
+.intro-section__selectRoom{
+  background-color: #eee;
+  display: flex;
+  align-items: center;
+}
+.intro-section__selectRoomLeft{
+  margin: 10px 20px;
+  width: 50px;
+}
+.intro-section__selectRoomLeft p{
+  font-size: 11px;
+}
+.intro-section__selectRoomCenter{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #bbb;
+  padding: 10px 7px;
+  background-color: white;
+  box-sizing: border-box;
+  width: 320px;
+  margin:5px 0;
+  border-radius: 3px;
+  margin-right: 15px;
+}
+.intro-section__pludwonMark{
+  width: 12px;
+}
+.intro-section__selectAdress1 , .intro-section__selectAdress2{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #eee;
+  margin-bottom:5px;
+}
+.intro-section__selectBtn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main-visual__mail{
+  padding:20px 70px;
+  margin-right:5px;
+}
+.main-visual__telephone{
+  padding:20px 70px;
+  margin-left:5px;
+}
+
+.page-footer__norton{
+  width: 750px;
+  margin:0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding:30px 0;
+}
+.page-footer__txt{
+  background-color: blue;
+  padding:10px;
+}
+.page-footer__left{
+display: inline-block;
+}
+
+.page-footer__left span{
+  font-size: 12px;
+  color: white;
+}
+
+.page-footer__right{
+display: inline-block;
+float: right;
+}
+
+.page-footer__logo{
+  width:200px;
+}
